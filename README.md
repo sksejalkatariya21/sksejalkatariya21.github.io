@@ -18,8 +18,8 @@ Address: Pune, Maharashtra, India | Zipcode: 411043
  <h3>Experience</h3>
 </h1>
  
-### [Dyte]("https://www.dyte.io")
-#### Dyte provides developer-friendly live WebRTC video SDKs that allow you to easily add 1:1 audio/video calls, group calls and webinars (Developed from scratch). Built with Kotlin Multi-Platform KMM. Porting shared code as an AAR & XCFramework using Maven dependency & Swift Package Manager. Lead for Mobile Team & IC for Android. I do code reviews, help in live support, client integrations, planning and execution for long-term business goals.
+### [Encora]("https://www.encora.com/")
+#### DGF-DataHub project aims to create a holistic view of data. Currently DGF pulls data from the CargoWise1 system and stores the data, eventually DGF will be the single source of truth for data. DGF-DataHub is implemented using MVC architecture where the view layer is built using Primefaces, controller and model layer is built using Java. I am responsible for designing and developing these UI-screens, also creating DB-design documents and workflow charts for any new business requirement. Responsible for developing clean code with TDD framework. Deploying Liquibase DB scripts to UCD. Also involved in code review activities, deployment release calls, demo calls to business.
 
 ### [Personatech]("https://www.personatech.com")
 #### Personatech is a technology company that builds software for in-person and virtual events. I was part of the mobile team there. During my tenure there we built apps for events like Shoptalk, Money20/20, Groceryshop, Retail Meetup and Fintech Meetup. We built the app from scratch and later provided white-labeled apps for the above events. We extensively used MVVM, Retrofit with RX, room database, Dagger 2 for dependency injection.
