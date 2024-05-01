@@ -21,24 +21,20 @@ Address: Pune, Maharashtra, India | Zipcode: 411043
 ### [Encora]("https://www.encora.com/")
 #### DGF-DataHub project aims to create a holistic view of data. Currently DGF pulls data from the CargoWise1 system and stores the data, eventually DGF will be the single source of truth for data. DGF-DataHub is implemented using MVC architecture where the view layer is built using Primefaces, controller and model layer is built using Java. I am responsible for designing and developing these UI-screens, also creating DB-design documents and workflow charts for any new business requirement. Responsible for developing clean code with TDD framework. Deploying Liquibase DB scripts to UCD. Also involved in code review activities, deployment release calls, demo calls to business.
 
-### [Personatech]("https://www.personatech.com")
-#### Personatech is a technology company that builds software for in-person and virtual events. I was part of the mobile team there. During my tenure there we built apps for events like Shoptalk, Money20/20, Groceryshop, Retail Meetup and Fintech Meetup. We built the app from scratch and later provided white-labeled apps for the above events. We extensively used MVVM, Retrofit with RX, room database, Dagger 2 for dependency injection.
+### [Globant]("https://www.globant.com/")
+#### RDH platform is built for payment modernization. This platform focuses on creating a Reference Data Hub for country, currency, holidays,etc. I was responsible for creating microservices for the UK, Hong-Kong for RTGS. I was involved in DSP (Digital Security platform) and Zuul integration for microservices exposed to consumers. Engaged in consumers call who consume the RDH API’s. Configuring X-matter alerts and deploying apps on GCP.
 
-### [PayTM]("https://www.paytm.com")
-#### Part of the PayTM Smart retail team. My role was in the mobile team. The app was a Point-of-sale system that could be used at any type of retail and wholesale establishment. This app was offline first and used to work with wireless printers, barcode scanners, weight scales, KOT printers, EDC devices, etc. The app also had a CRM system built. My role here also involved talking with other teams in PayTM and making sure the app follows all protocols and guidelines set by our management team
+### [TIAA]("https://www.tiaa.org/public")
+#### MDM platform was built to create a holistic view of contacts and organization across the data domains. As part of MDM, I developed business rules, actions, web configuration, event controllers in the STIBO-STEP tool. I developed microservices for contacts and organizations. Also worked on creating Mule flows for orchestration. I did a complete setup for Kafka  integration for publishing kafka messages to downstream systems. I was involved in demo calls to business. Hands on experience on writing docker files and deploying apps on Kubernetes.
 
-### [GigIndia]("https://www.gigindia.in")
-#### GigIndia was an app primarily made for gig workers to execute small tasks and make a quick buck. I joined GigIndia as their Android developer and made their app 70% lighter and 99.5% crash-free. Mostly worked on optimizing the codebase and ensured strict development practices amongst the team.
- 
-### [InTouchApp]("https://www.intouchapp.com")
-#### With millions of downloads and billions of contacts managed, I was responsible for the design and architecture of InTouchApp, a smart contacts manager app, across mobile platforms such as iOS, Android, Windows Phone and others. During my tenure there we were responsible for syncing contacts from android contacts to our cloud. We also created a server-rendered UI in our app for smart contacts.
+### [Wipro Technologies]("https://www.wipro.com/")
+#### Charles Schwab is in the fintech domain. I was responsible for creating microservices for account creation, customer onboarding. I was developing clean code with TDD approach. Worked on automating CI-CD pipeline using Gradle scripting. I also implemented BDD in my project. Hands On experience for deploying apps on PCF.
 
 <h1 align="center">
  <h3>Achievements</h3>
 </h1>
 
-- [ ] WhatsChat App: Native android app built with Kotlin which allows you to send direct messages on WhatsApp without needing to save contact information. This app is available on Google Play Store and has been growing steadily for the last 2 years.
-- [ ] Company portfolio website: Built a portfolio website for my brother's tourism business using HTML and CSS. Our customers mainly use this website to learn about our services and offerings. And makes an online presence of the family-owned business.
-- [ ] Employee of the Quarter: Received Employee of the Quarter award at Paytm Smart Retail team for being the most efficient and productive developer amongst the team of ~40 developers.
-- [ ] Seminars at VIT & VIIT College: Being an esteemed alumni of VIIT college I’ve been invited multiple times at our college to talk to engineering students about mobile app development.
-- [ ] College annual event website and Android App: Built a website and an Android app to showcase the college annual event information for VIIT Perception in 2016.
+- [ ] Employee of the quarter: Received appreciation from DHL for continuous high deliverables.
+- [ ] Extra activities: Delivered lectures in LPF(Lila Poonawalla Foundation) foundation on coding practices and career in IT.
+- [ ] Pat on the back: Received Pat on the back for STIBO step connectivity with Mule API’s integration.
+- [ ] Appreciation for automation - Rewarded for automating CI-CD pipeline using Gradle task.
