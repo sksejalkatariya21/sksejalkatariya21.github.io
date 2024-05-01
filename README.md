@@ -10,7 +10,7 @@ Address: Pune, Maharashtra, India | Zipcode: 411043
 <h1 align="center">
  <h3>Primary Tech Stack</h3>
  <h4>
-   Activities, Fragments, ViewModels, Runtime permissions, MVVM, Services, Notifications, Dependency Injection, XML’s, Jetpack compose, RxJava, Kotlin flows, dagger, Retrofit, Room, Coroutines, Ktor
+  Java, Springboot, Microservices, REST-API, IBM-MDM, STIBO-STEP, SQL, PCF, TDD, Mockito Framework, Liquibase, UrbanCode Deployment(UCD), Maven, Gradle, Kafka, ServiceBus, Swagger, Primefaces.
  </h4>
 </h1>
 
