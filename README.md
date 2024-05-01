@@ -1,9 +1,9 @@
 <h1 align="center">
-Rohit Sunil Khirid (Mobile Team Lead at Dyte)
+Sejal Katariya (Backend Java developer)
 </h1>
 <h4 align="center">
 Experience: 8 Years <br/>
-LinkedIn: https://www.linkedin.com/in/rohit-khirid/ <br/>
+LinkedIn: https://www.linkedin.com/in/sk-sejal/ <br/>
 Address: Pune, Maharashtra, India | Zipcode: 411043
 </h4>
 
