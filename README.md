@@ -35,6 +35,6 @@ Address: Pune, Maharashtra, India | Zipcode: 411043
 </h1>
 
 - [ ] Employee of the quarter: Received appreciation from DHL for continuous high deliverables.
-- [ ] Extra activities: Delivered lectures in LPF(Lila Poonawalla Foundation) foundation on coding practices and career in IT.
+- [ ] Extra activities: Delivered lectures in LPF(Lila Poonawalla Foundation) on coding practices and career in IT.
 - [ ] Pat on the back: Received Pat on the back for STIBO step connectivity with Mule API’s integration.
 - [ ] Appreciation for automation - Rewarded for automating CI-CD pipeline using Gradle task.
